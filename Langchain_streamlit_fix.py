@@ -30,7 +30,7 @@ def main():
     # __ : 글자 눕히기
     # :books: : 책 아이콘
     # 배경 이미지 URL
-    background_image_url = "https://your-image-url.com/image.jpg"  # 여기에 이미지 URL을 넣으세요
+    background_image_url = "https://github.com/jangmooByun/langchain_streamlit/blob/main/cts4617_img02.png"  # 여기에 이미지 URL을 넣으세요
 
     # Streamlit 페이지에 HTML/CSS를 삽입하여 배경 이미지 설정
     st.markdown(
